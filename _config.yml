@@ -1,0 +1,10 @@
+# Site settings
+title: Arduino 'Bar graph'
+Date: 01/08/2023
+author:
+  name: Jiayue Fan
+  email: fankaren619@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
