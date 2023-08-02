@@ -1,9 +1,9 @@
 # Site settings
 title: Arduino projects
 author:
-  name: Jiayue Fan
+  name: Jiayue Fan(Karen)
   email: fankaren619@gmail.com
-description: "Great site about Jekyll on GH-Pages."
+description: Writing blogs helps me to document my progress and I am still and will always be learning!
 
 # Build settings
 remote_theme: jekyll/minima
