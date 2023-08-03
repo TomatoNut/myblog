@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ardunio Bar graph"
-tage: first post
+tags: my first post
 categories: Arduino
 ---
 
