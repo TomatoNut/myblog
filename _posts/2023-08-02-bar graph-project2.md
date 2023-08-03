@@ -24,9 +24,8 @@ As I still would like to find out the resistors with suitable values that I shou
 <img src="https://raw.githubusercontent.com/TomatoNut/myblog/main/bar%20graph%20resistor%20calculation.jpg" width="400px" height="400px"><br>  
 
 From my calculations, I got the result which may help us to select the nearest standard resistors:<br>
-- for red LED: 170 ohms of resistance should be restricted 
-- for yellow LED: 140 ohms of resistance should be restricted 
-- for green LED: 100 ohms of resistance should be restricted 
-- for white LED: 80 ohms of resistance should be restricted
-
+- for red LED: 170 ohms of resistance should be restricted
+- for yellow LED: 140 ohms of resistance should be restricted
+- for green LED: 100 ohms of resistance should be restricted
+- for white LED: 80 ohms of resistance should be restricted<br>
 (this makes sense a lot to me that is why I should be using the 220 resistor instead of the 1k resistor!)
