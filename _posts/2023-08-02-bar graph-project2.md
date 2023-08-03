@@ -22,7 +22,7 @@ And... errors occured.
 After researching, I found out that the built-in diodes in LTspice, do not use current ratings/ average forward current(IF(AV)) as a parameter. However, it uses the forward voltage drop(VF) and other parameters, which is still able to represent a general didoe's behavior. Therefore, if we still would like to replicate our real-life circuit onto LTspice, we might need a more detailed diode model to represent the LEDs with different current ratings.  
 
 However, I am not giving up!
-I still would like to find out the resistors with suitable values that I should use for each coloured LED, I performed calculation by hand:
+I still would like to find out the resistors with suitable values that I should use for each coloured LED, I performed calculation by hand:  
 <img src="https://raw.githubusercontent.com/TomatoNut/myblog/main/bar%20graph%20resistor%20calculation.jpg" width="400px" height="400px">  
 
 From my calculations, I got the result which may help us to select the nearest standard resistors:
