@@ -46,6 +46,8 @@ void loop() {
 }
 ```
 
-some images:
+final presentation:
 ![arduino bar graph2](https://github.com/TomatoNut/myblog/assets/141178923/29d19c49-568e-4ee5-ad4f-98d8992191d8)
 ![arduino bar graph1](https://github.com/TomatoNut/myblog/assets/141178923/5b25affd-f4be-4704-9e43-816fea1c8d08)
+[Check this video out to see how the final project works](https://youtu.be/sUpg7Z3-Dww)
+
