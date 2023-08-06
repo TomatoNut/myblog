@@ -13,7 +13,7 @@ Why even doing this?
 - Bar graph project utilizes the principle of parallel circuits and by excluding the potentiometer for now, it becomes a much more manageable circuit for beginners like myself to put together in a schematic.
 <imag src="https://raw.githubusercontent.com/TomatoNut/myblog/main/bar%20graph%20schematic.png" width= "300px" height="500px">
 I decided to reduce the number of LEDs into 4, with them being LEDs of the 4 different colours used in the Bar graph project: white, green, yellow, red(counting from the bottom)
-<img src="https://raw.githubusercontent.com/TomatoNut/myblog/main/bar%20graph%20schematic.png" width="400px" height="600">
+<img src="https://raw.githubusercontent.com/TomatoNut/myblog/main/bar%20graph%20schematic.png" width="400px" height="600"><br>
 After putting in the values of the resistance and current ratings(note that different coloured LEDs have different values and the values were found online), I ran the simulator.<br>
 And... errors occured.<br>
 
